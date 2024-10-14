@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Redwanur Rahaman</h1>
-<h3 align="center">Web Developer and Competitive programmer</h3>
+<h3 align="center">Web Developer, Competitive Programmer & Designer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redwanur" alt="redwanur" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/redwanrx" target="blank"><img src="https://img.shields.io/twitter/follow/redwanrx?logo=twitter&style=for-the-badge" alt="redwanrx" /></a> </p>
 
- • I’m currently learning **C#, NextJS, Python, Databases**
+- I’m currently learning **C#, NextJS, Python, Databases**
 
-- 👨‍💻 All of my projects are available at [https://redwanur.github.io/redwan.com/](https://redwanur.github.io/redwan.com/)
+- All of my projects are available at [https://redwanur.github.io/redwan.com/](https://redwanur.github.io/redwan.com/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Redwan07](https://hashnode.com/@Redwan07)
+- I write articles on [https://hashnode.com/@Redwan07](https://hashnode.com/@Redwan07)
 
-- 📫 How to reach me **redwanur2005@gmail.com**
+- Reach Me at  **redwanur2005@gmail.com**
 
-- 📄 Know about my experiences [https://redwanur.github.io/redwan.com/](https://redwanur.github.io/redwan.com/)
+- Know about my experiences [https://redwanur.github.io/redwan.com/](https://redwanur.github.io/redwan.com/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
