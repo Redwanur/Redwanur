@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Redwanur Rahaman</h1>
 <h3 align="center">Web Developer, Competitive Programmer & Designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redwanur" alt="redwanur" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redwanur" alt="redwanur" /></a> </p>
 
 
 - I’m currently learning **C#, NextJS, Python, Databases**
