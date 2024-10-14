@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Redwanur Rahaman</h1>
 <h3 align="center">Web Developer, Competitive Programmer & Designer</h3>
+<p> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> . It is nice to meet you. Thank uou for visiting my github. I am currently studying at Notre Dame College(NDC), Dhaka, Bangladesh.
 
+I have experience with C/C++, Python, HTML, CSS, JavaScript etc. Professionally, I am very passionate about Competitive Problem Solving and Web Application Development. You can visit my website to know better about me. Send me an email if you want to start a discussion with me. </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redwanur" alt="redwanur" /></a> </p>
 
 
@@ -16,13 +18,13 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Connect with me</h1>
 <p align="center">
 <a href="https://twitter.com/redwanrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redwanrx" height="30" width="40" /></a>
 <a href="https://hashnode.com/redwan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="redwan07" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
