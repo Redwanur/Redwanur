@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/redwanrx" target="blank"><img src="https://img.shields.io/twitter/follow/redwanrx?logo=twitter&style=for-the-badge" alt="redwanrx" /></a> </p>
 
-- 🌱 I’m currently learning **C#, NextJS, Python, Databases**
+ • I’m currently learning **C#, NextJS, Python, Databases**
 
 - 👨‍💻 All of my projects are available at [https://redwanur.github.io/redwan.com/](https://redwanur.github.io/redwan.com/)
 
